@@ -235,3 +235,6 @@ This repository serves as the official landing page for Scan2PDF. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Scan2PDF today!**
+
+---
+**Last updated:** 2026-09-12 00:55:22 UTC
