@@ -237,4 +237,4 @@ This repository serves as the official landing page for Scan2PDF. The software i
 **Get the most recent version of Scan2PDF today!**
 
 ---
-**Last updated:** 2026-10-18 05:27:20 UTC
+**Last updated:** 2026-10-18 10:26:58 UTC
